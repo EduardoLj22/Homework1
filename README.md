@@ -1,2 +1,4 @@
 # Homework1
 This is the first challenge of the bootcamp
+This challenge consists on a need for a marketing agency to have a codebase that adheres to accessibility standards, ensuring their website is optimized for search engines. The acceptance criteria detail the specific requirements for achieving this goal, including the use of semantic HTML elements, logical structure independent of styling, accessible alt attributes for images, sequential heading attributes, and a concise, descriptive title element. By meeting these criteria, the marketing agency can enhance the accessibility and search engine optimization (SEO) of their website.
+NOTE: This code is design for desktop users, so the appereance might change depending on the device used to watch the web page.
